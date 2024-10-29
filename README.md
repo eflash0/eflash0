@@ -14,3 +14,5 @@ I'm a passionate developer interested in [Your Interests or Field]. Here's a bit
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=eflash0&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eflash0&layout=compact)
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-61DAFB?logo=javascript&logoColor=fff&style=flat)
+![React](https://img.shields.io/badge/-React-20232a?logo=react&logoColor=61DAFB&style=flat)
