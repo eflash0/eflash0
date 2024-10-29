@@ -12,3 +12,5 @@ I'm a passionate developer interested in [Your Interests or Field]. Here's a bit
 - Tools: Docker, Kubernetes, Git
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=eflash0&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eflash0&layout=compact)
+
