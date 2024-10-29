@@ -16,3 +16,7 @@ I'm a passionate developer interested in [Your Interests or Field]. Here's a bit
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-61DAFB?logo=javascript&logoColor=fff&style=flat)
 ![React](https://img.shields.io/badge/-React-20232a?logo=react&logoColor=61DAFB&style=flat)
+
+### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/your-username)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/your-username)
