@@ -11,4 +11,4 @@ I'm a passionate developer interested in [Your Interests or Field]. Here's a bit
 - Frameworks: Angular, React, Spring Boot
 - Tools: Docker, Kubernetes, Git
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=eflas0&show_icons=true)
