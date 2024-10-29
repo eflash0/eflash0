@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there, I'm [Your Name]! 👋
 
-<!--
-**eflash0/eflash0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer interested in [Your Interests or Field]. Here's a bit more about me:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [Your Project]
+- 🌱 I’m learning [Technologies or Languages]
+- 📫 Reach me at [email@example.com]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Skills:
+- Programming: JavaScript, Python, Java, etc.
+- Frameworks: Angular, React, Spring Boot
+- Tools: Docker, Kubernetes, Git
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
