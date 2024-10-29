@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [movie recommendation system](https://github.com/eflash0/movie-recommendation-system)
 
-- 🌱 I’m currently learning **tensor flow**
+- 🌱 I’m currently learning **aws**
 
 - 💬 Ask me about **Spring Boot, Angular**
 
