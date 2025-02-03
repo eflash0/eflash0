@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abderrahim</h1>
 <h3 align="center">I'm a passionate developer interested in software development</h3>
 
-- 🔭 I’m currently working on [movie recommendation system](https://github.com/eflash0/movie-recommendation-system)
+- 🔭 I’m currently working on [my own json parser](https://github.com/eflash0/movie-recommendation-system)
 
 - 🌱 I’m currently learning **AWS**
 
